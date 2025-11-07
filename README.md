@@ -1,3 +1,44 @@
+# 👋 Hi, I'm Khushi Jaiswal  
+
+🌟 **Aspiring Data & Financial Analyst**  
+💻 Learning **Excel | SQL | Power BI | Python | Financial Modelling**  
+📈 Passionate about turning data into meaningful insights  
+
+---
+
+### 🔹 About Me  
+- 🎓 Beginner in the field of Data & Finance  
+- 📊 Currently working on small analytics projects to strengthen my skills  
+- 🌱 Exploring real-world datasets to improve my analytical thinking  
+- 🚀 Goal: To become a skilled Data & Financial Analyst  
+
+---
+
+### 🛠️ Tools & Technologies  
+- **Excel** – Data cleaning, dashboards & reports  
+- **SQL** – Querying and data management  
+- **Power BI** – Data visualization  
+- **Python** – Basic data analysis & automation  
+- **Financial Modelling** – Learning step by step  
+
+---
+
+### 📂 Projects  
+*(Will be added soon!)*  
+1. Data Cleaning in Excel  
+2. SQL Practice Queries  
+3. Power BI Dashboard  
+4. Financial Statement Analysis  
+
+---
+
+### 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/khushi-jaiswal-22248121b) 
+- [GitHub](https://github.com/khushijaiswal07)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to check my projects and follow my learning journey.*
 ## Hi there 👋
 
 <!--
