@@ -39,7 +39,6 @@
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to check my projects and follow my learning journey.*
-## Hi there 👋
 
 <!--
 **khushijaiswal07/khushijaiswal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
