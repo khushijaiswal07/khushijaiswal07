@@ -24,18 +24,17 @@
 ---
 
 ### 📂 Projects  
-*(Will be added soon!)*  
-1. Data Cleaning in Excel  
-2. SQL Practice Queries  
-3. Power BI Dashboard  
-4. Financial Statement Analysis
-   https://github.com/khushijaiswal07/UIDAI-Dashboard-Project-Pdf
+1. Rock Paper Scissor (Python) https://github.com/khushijaiswal07/rock-paper-scissor-python
+2. Goal Inflation Planner Calculator https://github.com/khushijaiswal07/goal-inflation-planner
+3. Data Cleaning in Excel https://github.com/khushijaiswal07/Excel-Data-Cleaning-Project
+4.UIDAI Hackathon 2026 Dashboard (PDF) https://github.com/khushijaiswal07/UIDAI-Dashboard-Project-Pdf
 
 ---
 
 ### 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/khushi-jaiswal-22248121b) 
 - [GitHub](https://github.com/khushijaiswal07)
+- [Gmail_Id](jaiswal.khushilku7@gmail.com)
 
 ---
 
